@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.192bbc4e.chunk.css",
-    "main.js": "/static/js/main.98001c58.chunk.js",
-    "main.js.map": "/static/js/main.98001c58.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1197f8c9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1197f8c9.js.map",
-    "static/js/2.b445a63a.chunk.js": "/static/js/2.b445a63a.chunk.js",
-    "static/js/2.b445a63a.chunk.js.map": "/static/js/2.b445a63a.chunk.js.map",
-    "static/js/3.3ce5a7ed.chunk.js": "/static/js/3.3ce5a7ed.chunk.js",
-    "static/js/3.3ce5a7ed.chunk.js.map": "/static/js/3.3ce5a7ed.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.192bbc4e.chunk.css.map": "/static/css/main.192bbc4e.chunk.css.map",
-    "static/js/2.b445a63a.chunk.js.LICENSE.txt": "/static/js/2.b445a63a.chunk.js.LICENSE.txt",
-    "static/media/mtb.css": "/static/media/road_bikes.af7491ed.jpg",
-    "static/media/engranaje.0f501a14.png": "/static/media/engranaje.0f501a14.png",
-    "static/media/App.css": "/static/media/fondoLoad.e2892384.png",
-    "static/media/logo.4da77e7a.png": "/static/media/logo.4da77e7a.png"
+    "main.css": "/bike-parts/static/css/main.a180a37f.chunk.css",
+    "main.js": "/bike-parts/static/js/main.98001c58.chunk.js",
+    "main.js.map": "/bike-parts/static/js/main.98001c58.chunk.js.map",
+    "runtime-main.js": "/bike-parts/static/js/runtime-main.cfa9630d.js",
+    "runtime-main.js.map": "/bike-parts/static/js/runtime-main.cfa9630d.js.map",
+    "static/js/2.3fb68244.chunk.js": "/bike-parts/static/js/2.3fb68244.chunk.js",
+    "static/js/2.3fb68244.chunk.js.map": "/bike-parts/static/js/2.3fb68244.chunk.js.map",
+    "static/js/3.3ce5a7ed.chunk.js": "/bike-parts/static/js/3.3ce5a7ed.chunk.js",
+    "static/js/3.3ce5a7ed.chunk.js.map": "/bike-parts/static/js/3.3ce5a7ed.chunk.js.map",
+    "index.html": "/bike-parts/index.html",
+    "static/css/main.a180a37f.chunk.css.map": "/bike-parts/static/css/main.a180a37f.chunk.css.map",
+    "static/js/2.3fb68244.chunk.js.LICENSE.txt": "/bike-parts/static/js/2.3fb68244.chunk.js.LICENSE.txt",
+    "static/media/mtb.css": "/bike-parts/static/media/road_bikes.af7491ed.jpg",
+    "static/media/engranaje.0f501a14.png": "/bike-parts/static/media/engranaje.0f501a14.png",
+    "static/media/App.css": "/bike-parts/static/media/fondoLoad.e2892384.png",
+    "static/media/logo.4da77e7a.png": "/bike-parts/static/media/logo.4da77e7a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1197f8c9.js",
-    "static/js/2.b445a63a.chunk.js",
-    "static/css/main.192bbc4e.chunk.css",
+    "static/js/runtime-main.cfa9630d.js",
+    "static/js/2.3fb68244.chunk.js",
+    "static/css/main.a180a37f.chunk.css",
     "static/js/main.98001c58.chunk.js"
   ]
 }
