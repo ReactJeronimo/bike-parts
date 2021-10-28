@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bike-parts/static/css/main.a180a37f.chunk.css",
-    "main.js": "/bike-parts/static/js/main.959879b9.chunk.js",
-    "main.js.map": "/bike-parts/static/js/main.959879b9.chunk.js.map",
+    "main.js": "/bike-parts/static/js/main.be60b55e.chunk.js",
+    "main.js.map": "/bike-parts/static/js/main.be60b55e.chunk.js.map",
     "runtime-main.js": "/bike-parts/static/js/runtime-main.cfa9630d.js",
     "runtime-main.js.map": "/bike-parts/static/js/runtime-main.cfa9630d.js.map",
     "static/js/2.101dde8f.chunk.js": "/bike-parts/static/js/2.101dde8f.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.cfa9630d.js",
     "static/js/2.101dde8f.chunk.js",
     "static/css/main.a180a37f.chunk.css",
-    "static/js/main.959879b9.chunk.js"
+    "static/js/main.be60b55e.chunk.js"
   ]
 }
