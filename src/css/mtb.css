@@ -1,0 +1,186 @@
+.mtb {
+  margin-top: 90px; 
+  width: 100%;
+}
+
+.header-mtb {
+  background: url("../img/mtb.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: calc(70vh - 90px);
+}
+
+.overly-mtb {
+  background: #d0263a2a;
+  width: 100%;
+  height: calc(70vh - 90px);
+}
+.header-dh {
+  background: url("../img/downhill.avif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: calc(70vh - 90px);
+}
+
+.header-dirt {
+  background: url("../img/dirt_jump.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: calc(70vh - 90px);
+}
+
+.header-rb {
+  background: url("../img/road_bikes.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: calc(70vh - 90px);
+}
+
+#CambiosTraseros {
+  fill: #a1a1a1;
+  stroke: none;
+  transition: all 0.5s;
+  z-index: 1;
+}
+
+#CambiosTraseros:hover {
+  fill: #5a5a5a;
+  z-index: 2;
+}
+#cambiosDelanteros {
+  fill: #a1a1a1;
+  stroke: none;
+  transition: all 0.5s;
+  z-index: 1;
+}
+
+#cambiosDelanteros:hover {
+  fill: #5a5a5a;
+  z-index: 2;
+}
+
+
+
+
+#suspencionDelantera {
+  fill: #a1a1a1;
+  stroke: none;
+  transition: all 0.5s;
+  z-index: 1;
+}
+
+#suspencionDelantera:hover {
+  fill: #5a5a5a;
+  z-index: 2;
+}
+
+#suspensionTrasera {
+  fill: #a1a1a1;
+  stroke: none;
+  transition: all 0.5s;
+  z-index: 1;
+}
+
+#suspensionTrasera:hover {
+  fill: #5a5a5a;
+  z-index: 2;
+}
+
+#llantaDelantera {
+  stroke: #a1a1a1;
+  transition: all 0.5s;
+  z-index: 1;
+}
+
+#llantaDelantera:hover {
+  stroke: #5a5a5a;
+  z-index: 2;
+}
+#cuadro {
+  stroke: #a1a1a1;
+  transition: all 0.5s;
+  z-index: 1;
+}
+
+#cuadro:hover {
+  stroke: #5a5a5a;
+  z-index: 2;
+}
+
+
+#mtbBike {
+  width: 90%;
+}
+
+#biciDirt {
+  width: 90%;
+}
+
+#biciDirt {
+  width: 60%;
+  position: absolute;
+  left: 20px;
+}
+
+#biciDirt * {
+  fill: #aaaaaa;
+}
+
+#rayosDelanteros,
+#rayosTraseros {
+  fill: none;
+}
+
+#rayosDelanterosG,
+#rayosTraserosG {
+  fill: none !important;
+  z-index: -1 !important;
+}
+
+#rayosDelanterosG:hover,
+#rayosTraserosG:hover {
+  stroke: black;
+}
+
+#biciDirt:hover {
+  fill: #444444;
+}
+
+#silla:hover,
+#cadena:hover,
+#platos:hover,
+#pinones:hover,
+#volante:hover,
+#frenoTrasero:hover,
+#cambioTrasero:hover,
+#cambioDelantero:hover,
+#suspencion:hover,
+#frenoDelantero:hover,
+#llantaDelantera:hover,
+#llantaTrasera:hover,
+#valvula:hover,
+#valvulaDos:hover,
+#cuadro:hover,
+#pedal:hover {
+  fill: #444444;
+  transition: all 0.5s;
+}
+#rayosDelanteros:hover,
+#rayosTraseros:hover {
+  stroke: black;
+}
+
+.content_bike-dirt {
+  width: 35%;
+  height: 80vh;
+  float: right;
+  margin-right: 20px;
+}
+
+.todo{
+  width: 90%;
+}
+
+.none{
+  display: none;
+}
