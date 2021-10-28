@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactJeronimo/bike-parts.git/static/css/main.6a5716e9.chunk.css",
+    "main.js": "/ReactJeronimo/bike-parts.git/static/js/main.959879b9.chunk.js",
+    "main.js.map": "/ReactJeronimo/bike-parts.git/static/js/main.959879b9.chunk.js.map",
+    "runtime-main.js": "/ReactJeronimo/bike-parts.git/static/js/runtime-main.ee49eb3c.js",
+    "runtime-main.js.map": "/ReactJeronimo/bike-parts.git/static/js/runtime-main.ee49eb3c.js.map",
+    "static/js/2.a53ac650.chunk.js": "/ReactJeronimo/bike-parts.git/static/js/2.a53ac650.chunk.js",
+    "static/js/2.a53ac650.chunk.js.map": "/ReactJeronimo/bike-parts.git/static/js/2.a53ac650.chunk.js.map",
+    "static/js/3.3ce5a7ed.chunk.js": "/ReactJeronimo/bike-parts.git/static/js/3.3ce5a7ed.chunk.js",
+    "static/js/3.3ce5a7ed.chunk.js.map": "/ReactJeronimo/bike-parts.git/static/js/3.3ce5a7ed.chunk.js.map",
+    "index.html": "/ReactJeronimo/bike-parts.git/index.html",
+    "static/css/main.6a5716e9.chunk.css.map": "/ReactJeronimo/bike-parts.git/static/css/main.6a5716e9.chunk.css.map",
+    "static/js/2.a53ac650.chunk.js.LICENSE.txt": "/ReactJeronimo/bike-parts.git/static/js/2.a53ac650.chunk.js.LICENSE.txt",
+    "static/media/mtb.css": "/ReactJeronimo/bike-parts.git/static/media/road_bikes.af7491ed.jpg",
+    "static/media/engranaje.0f501a14.png": "/ReactJeronimo/bike-parts.git/static/media/engranaje.0f501a14.png",
+    "static/media/App.css": "/ReactJeronimo/bike-parts.git/static/media/fondoLoad.e2892384.png",
+    "static/media/logo.4da77e7a.png": "/ReactJeronimo/bike-parts.git/static/media/logo.4da77e7a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee49eb3c.js",
+    "static/js/2.a53ac650.chunk.js",
+    "static/css/main.6a5716e9.chunk.css",
+    "static/js/main.959879b9.chunk.js"
+  ]
+}
