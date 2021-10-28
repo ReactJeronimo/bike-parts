@@ -2,6 +2,7 @@
   "name": "bike-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ReactJeronimo.github.io/bike-parts",
   "dependencies": {
     "@barba/core": "^2.9.7",
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
@@ -13,6 +14,7 @@
     "@testing-library/user-event": "^12.8.3",
     "body-scroll-lock": "^4.0.0-beta.0",
     "bootstrap": "^5.1.3",
+    "gh-pages": "^3.2.3",
     "gsap": "^3.8.0",
     "hamburger-react": "^2.4.1",
     "jquery": "^3.6.0",
@@ -30,6 +32,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
